@@ -2,6 +2,8 @@
 # coding: utf-8
 # 事前確率
 
+# -- usage $python3 b1.py
+
 w1=(1/3);
 w2=1/3;
 w3=1/3;
